@@ -1,13 +1,8 @@
 const champions = [
-  "Ahri", "Akali", "Alistar", "Amumu", "Annie", "Ashe", "Blitzcrank", "Braum",
-  "Caitlyn", "Cassiopeia", "Chogath", "Darius", "Diana", "Ezreal", "Fizz",
-  "Galio", "Garen", "Hecarim", "Irelia", "Kai'sa", "Kassadin", "Kennen", "Kha'zix",
-  "Leona", "Lillia", "Lissandra", "Lucian", "Lulu", "Lux", "MasterYi", "Malphite",
-  "Maokai", "Millio", "MissFortune", "Mordekaiser", "Nasus", "Nautilus", "Nocturne",
-  "Poppy", "Rakkan", "RennataGlasc", "Rumble", "Sejuani", "Seraphine", "Sett", "Shyvana",
-  "Sivir", "Smolder", "Sona", "Soraka", "Taric", "Tristana", "Tryndamere", "TwistedFate",
-  "Twitch", "Urgot", "Varus", "Vayne", "Veigar", "Vex", "Vi", "Volibear", "Warwick",
-  "Wukong", "XinZhao", "Yorick", "Ziggs", "Zyra"
+  "Aatrox", "Ahri", "Akali", "Alistar", "Amumu", "Anivia", "Annie", "Ashe",
+  "Blitzcrank", "Brand", "Caitlyn", "Chogath", "Darius", "Diana", "Draven", "Ekko",
+  "Elise", "Evelynn", "Ezreal", "Fiora", "Fizz", "Galio", "Garen", "Gragas",
+  "Hecarim", "Heimerdinger", "Irelia", "Janna", "JarvanIV", "Jax", "Jayce", "Jhin"
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
